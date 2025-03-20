@@ -22,6 +22,7 @@ body {
   color: rgb(224, 35, 35);
   font-family: mayonice;
   font-size: 40px;
+  display: block;
 }
 
 /*Stylize the paragraphs' color, font and size*/
@@ -29,18 +30,21 @@ body {
   font-family: "Big Shoulders Stencil";
   color: #005CF7;
   font-size: 25px;
+  display: block;
 }
 
 .p2 {
   font-family: "Big Shoulders Stencil";
   color: #005CF7;
   font-size: 25px;
+  display: block;
 }
 
 .p3 {
   font-family: "Big Shoulders Stencil";
   color: #005CF7;
   font-size: 25px;
+  display: block;
 }
 
 /*Color the links blue*/
@@ -72,4 +76,9 @@ a:hover {
 .img3 {
 width: 300px;
 height: 200px;
+}
+
+.audio {
+display: block;
+margin-top: 50px;
 }
